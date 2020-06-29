@@ -1,7 +1,1 @@
-// Yelp API
 
-Client ID
-kCeRwkMMLL8oJAtFlsNAoA
-
-API Key
-A2Dhlt1cUfrdwL8V66xraOh9PEiIuFRzQouU6UBIChZJ9I1V*VZ-AOAX2MWm7NcPZFM-lAN2S3fK69*-nWu_RisWoNnZfuT-T_BInucVyftiDY2AByMzTdKfLOyqXnYx
